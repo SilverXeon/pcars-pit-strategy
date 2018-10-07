@@ -1,0 +1,7 @@
+Menu -> Nouveau, ouvrir
+
+Menu -> Inserer données, calculer, selectionner session précedente
+
+Menu -> Insérer données, choisir carburant ou pneu et mettre un csv
+
+Menu calculer -> choisir voiture, circuit choisir le nombre de tour
